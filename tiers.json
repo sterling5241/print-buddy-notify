@@ -1,0 +1,4 @@
+{
+  "basic":    {"files": ["pb_notify"]},
+  "advanced": {"files": ["pb_notify"]}
+}
